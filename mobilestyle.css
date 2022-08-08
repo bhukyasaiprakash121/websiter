@@ -1,0 +1,376 @@
+
+@media only screen and (max-device-width: 380px) {
+    .m1 {
+        margin: 30px;
+        margin-left: 16px;
+        padding: 12px 277px 40px 17px;
+        color: white;
+        height: 500px;
+        border-radius: 30px;
+        border-color: rgb(247, 245, 245);
+        border-width: 10px;
+        border-style: solid;
+        background-image: url(images/food.jpg);
+        background-repeat: no-repeat;
+        background-position: -10px;
+    }
+    #t {
+        border-radius: 30px;
+        border-color: red;
+        border-style: solid;
+        margin-top: 0px;
+        padding-left: 235px;
+    }
+     #people{
+    margin-top: 155px;
+   }
+   #ok{
+      margin-left: 103px;
+   }
+   #tableno {
+    background-color: white;
+    border-radius: 30px;
+    border-color: white;
+    border-style: solid;
+    margin: 51px 0px 4px -11px;
+    height: 30px;
+    width: 269px;
+}
+.fa-solid {
+    margin-left: 108px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+    #tableno::placeholder{
+        padding-left: 80px;
+        color: black;
+    }
+    .fa-solid:hover{
+        color: red;
+    }
+       /*page-2*/
+       .page1{
+        height: fit-content;
+        width: fit-content;
+        display: block;
+    }
+
+    .order{
+        background-image:url("images/order.jpg");
+        background-size: 353px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 179px 283px 30px 211px;
+    }
+    .order:hover {
+        background-image: url(images/ordernowhover.jpg);
+        background-size: 353px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 179px 283px 30px 211px;
+    }
+    
+    
+
+    .call {
+        background-image: url(images/call.jpg);
+        background-size: 373px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 39px -14px 30px 121px;
+    }
+    .call:hover{
+        background-image:url("images/callwaiterhover.jpg");
+        background-size: 286px;
+        background-size: 373px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 39px -14px 30px 121px;
+    }
+
+   #waitercalled {
+     margin:  211px 0px -5px 222px;
+   }
+   #mes {
+    height: 32px;
+    width: 330px;
+    background-color: gray;
+    margin-top: 9px;
+    margin-left: 224px;
+}
+    ::placeholder{
+        color: black;
+    }
+    #su {
+        height: 78px;
+        width: 172px;
+        background-color: gray;
+        margin-left: 314px;
+        margin-top: 0px;
+    }
+    footer{
+        color:aquamarine;
+        margin: 89px 20px 20px 437px;
+    }
+    #callbutton {
+        background-color: red;
+        border-radius: 581px;
+        height: 133px;
+        margin-top: 66px;
+        margin-left: -37px;
+        padding: 10px 38px 10px 38px;
+    }
+    /*page-3*/
+    #imagepage2 {
+        width: 900px;
+        height: 900px;
+        margin: 50px 30px 57px 0px;
+    }
+    #h3 {
+        margin-left: 300px;
+        margin-top: 87px;
+        margin-bottom: 113px;
+        color: red;
+        
+        font-size: 2.5em;
+    }
+    #bu {
+        margin-left: 328px;
+        margin-bottom: 30px;
+        width: 100px;
+        height: 100px;
+    }
+    
+}
+@media only screen and (min-device-width:381px ) and (max-device-width: 420px) {
+    .m1 {
+        margin: 30px;
+        margin-left: 16px;
+        padding: 30px 317px 172px 17px;
+        color: white;
+        height: 500px;
+        border-radius: 30px;
+        border-color: rgb(247, 245, 245);
+        border-width: 10px;
+        border-style: solid;
+        background-image: url(images/food.jpg);
+        background-repeat: no-repeat;
+        background-position: -10px;
+    }
+    #t {
+        border-radius: 30px;
+        border-color: red;
+        border-style: solid;
+        margin-top: 0px;
+        padding-left: 271px;
+    }
+   #people{
+    margin-top: 281px;
+   }
+   #tableno {
+    background-color: white;
+    border-radius: 30px;
+    border-color: white;
+    border-style: solid;
+    margin: 110px 0px 4px -2px;
+    height: 30px;
+    width: 300px;
+}
+#ok {
+    margin-left: 125px;
+    width: 41px;
+    height: 30px;
+    margin-top: 4px;
+}
+    .fa-solid{
+        margin-left: 135px;
+        margin-top: 69px;
+        color: aliceblue;
+        
+    }
+    #tableno::placeholder{
+        padding-left: 80px;
+        color: black;
+    }
+    .fa-solid:hover{
+        color: red;
+    }
+    .fa-2x {
+        font-size: 3em;
+    }
+    /*page-2*/
+    .page1{
+        height: fit-content;
+        width: fit-content;
+        display: block;
+    }
+
+    .order{
+        background-image:url("images/order.jpg");
+        background-size: 353px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 179px 283px 30px 211px;
+    }
+    .order:hover {
+        background-image: url(images/ordernowhover.jpg);
+        background-size: 353px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 179px 283px 30px 211px;
+    }
+    
+    
+
+    .call {
+        background-image: url(images/call.jpg);
+        background-size: 373px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 39px -14px 30px 121px;
+    }
+    .call:hover{
+        background-image:url("images/callwaiterhover.jpg");
+        background-size: 286px;
+        background-size: 373px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 358px;
+        width: 335px;
+        margin: 39px -14px 30px 121px;
+    }
+
+   #waitercalled {
+     margin:  211px 0px -5px 222px;
+   }
+   #mes {
+    height: 32px;
+    width: 330px;
+    background-color: gray;
+    margin-top: 9px;
+    margin-left: 224px;
+}
+    ::placeholder{
+        color: black;
+    }
+    #su {
+        height: 78px;
+        width: 172px;
+        background-color: gray;
+        margin-left: 314px;
+        margin-top: 0px;
+    }
+    footer{
+        color:aquamarine;
+        margin: 89px 20px 20px 437px;
+    }
+    #callbutton {
+        background-color: red;
+        border-radius: 581px;
+        height: 133px;
+        margin-top: 66px;
+        margin-left: -37px;
+        padding: 10px 38px 10px 38px;
+    }
+    /*page-3*/
+    #imagepage2 {
+        width: 900px;
+        height: 900px;
+        margin: 50px 30px 57px 0px;
+    }
+    #h3 {
+        margin-left: 300px;
+        margin-top: 87px;
+        margin-bottom: 113px;
+        color: red;
+        
+        font-size: 2.5em;
+    }
+    #bu {
+        margin-left: 328px;
+        margin-bottom: 30px;
+        width: 100px;
+        height: 100px;
+    }
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {
+    .m1 {
+        margin: 51px;
+        margin-top: 110px;
+        margin-left: 59px;
+        padding: 20px 2px 40px 2px;
+        color: white;
+        height: 500px;
+        border-radius: 30px;
+        border-color: rgb(247, 245, 245);
+        border-width: 10px;
+        border-style: solid;
+        background-image: url(images/food.jpg);
+        background-repeat: no-repeat;
+        background-position: -10px;
+    }
+    #t {
+        border-radius: 30px;
+        border-color: red;
+        border-style: solid;
+        margin-top: 0px;
+        padding-left: 235px;
+    }
+    #title {
+        margin: 13px 10px 10px 67px;
+    }
+    .no {
+        margin-top: 23px;
+        margin-left: 29px;
+    }
+     
+    #tableno {
+        background-color: white;
+        border-radius: 30px;
+        border-color: white;
+        border-style: solid;
+        margin: 437px 0px 4px 131px;
+        height: 57px;
+        width: 415px;
+    }
+    .fa-solid {
+        margin-left: 251px;
+        margin-top: 46px;
+        color: aliceblue;
+    }
+    .fa-2x {
+        font-size: 5em;
+    }
+    #tableno::placeholder{
+        padding-left: 80px;
+        color: black;
+    }
+    .fa-solid:hover{
+        color: red;
+    }
+    /*page*/
+    .order {
+        background-image: url(images/order.jpg);
+        background-size: 286px;
+        border-style: solid;
+        background-repeat: no-repeat;
+        height: 300px;
+        width: 300px;
+        margin: 39px 98px 30px 39px;
+        display: flex;
+    }
+}
